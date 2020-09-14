@@ -1,1 +1,1 @@
-My Hacker Rank solutions
+My Hacker Rank solutions.
